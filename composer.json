@@ -1,0 +1,19 @@
+{
+    "name": "gmodugno/azpaylaravel",
+    "description": "Integração com a AZPay para Laravel",
+    "authors": [
+        {
+            "name": "Guilherme Modugno",
+            "email": "g.modugno@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "AzPayLaravel\\AzPay\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
